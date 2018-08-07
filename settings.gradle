@@ -1,0 +1,1 @@
+include ':app', ':component_base', ':shop_cart', ':component_data', ':baseLib:alertview', ':shop_mall', ':baseLib:kprogresshud'
