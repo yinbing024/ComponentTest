@@ -12,4 +12,5 @@ import okhttp3.MultipartBody;
 public interface FileRequestMapBuild extends RequestMapBuild<MultipartBody> {
     FileRequestMapBuild put(String key, File file);
     FileRequestMapBuild addAllProgressCallBack(ProgressResponseCallBack callBack);
+    //新东西太多学不过来啊
 }
